@@ -771,6 +771,4 @@ export function CloudView() {
     </div>
   )
 }
-  )
-}
 
